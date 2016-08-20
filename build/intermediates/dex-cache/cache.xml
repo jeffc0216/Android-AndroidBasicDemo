@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jeffchen/Documents/Android/AP102Sample/CH03/AndroidBasicDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="64501a578b55f561fabbe9d60609e0f3fec01418">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/CH03/AndroidBasicDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8bd1751e46f4be1052375ab830d521325a72bd77/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffchen/Documents/Android/AP102Sample/CH03/AndroidBasicDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="61a53ba8647b2511803acf27a7bc614c6fc5f408">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/CH03/AndroidBasicDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5af40460dd327a735c4b49518203570201810a26/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffchen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/CH03/AndroidBasicDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.0_63b71fba86cec4d1067df0f63883b826bd1d81ba/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffchen/Documents/Android/AP102Sample/CH03/AndroidBasicDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/CH03/AndroidBasicDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_09fd507f2f7c0bde33b28794a698f21090ce7a6c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffchen/Documents/Android/AP102Sample/CH03/AndroidBasicDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/CH03/AndroidBasicDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.0_ef926a751acc25dc8488b0464974abee9169318c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffchen/Documents/Android/AP102Sample/CH03/AndroidBasicDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/CH03/AndroidBasicDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.0_0ce370b9a5e5018a29e25b794cd9e851d35f987b/classes.dex" />
+    </item>
+
+</items>
